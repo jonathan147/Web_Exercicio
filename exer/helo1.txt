@@ -4,7 +4,7 @@
 
   
     <title>Jogos para Web</title>
-    <link rel="stylesheet" type="text/css" href="file:///C:/Users/Jonathan/Desktop/exer/helo1_files/MyStyle.css">	
+    <link rel="stylesheet" type="text/css" href="C:\Users\Jonathan\Desktop\Web_Exercicio\Web_Exercicio\exer\MyStyle.css">	
   </head>
   <body>
          <!--Comentário-->
