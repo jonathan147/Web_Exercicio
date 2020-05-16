@@ -1,3 +1,3 @@
 # Web_Exercicio
 
-[Exercicio logo da facens](https://github.com/jonathan147/Web_Exercicio/blob/master/exercicios/helo.html)
+[Exercicio logo da facens](https://jonathan147.github.io/Web_Exercicio/exercicios/helo.html)
