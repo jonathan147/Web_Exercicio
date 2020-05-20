@@ -6,3 +6,4 @@
 
 [Exercicio 2](https://jonathan147.github.io/Web_Exercicio/exe2/helo.html)
 
+[Exercicio 2](https://jonathan147.github.io/Web_Exercicio/exe3/helo.html)
